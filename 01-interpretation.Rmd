@@ -1,0 +1,30 @@
+# INTERPRETATION
+
+(a) For purposes of this Constitution and By-Laws of the National Basketball Association, the following capitalized terms shall have the following meanings:
+    (1) "Active List" shall mean the list of Players who have signed player contracts with a Member and are otherwise eligible to participate in a Regular Season Game in accordance with Section 6.02 of the By-Laws.
+    (2) "Armed Services List" shall mean the list of those Players who have entered the Armed Services and are serving on active duty.
+    (3) "Association" shall mean the National Basketball Association.
+    (4) "Entity" shall mean any corporation, partnership, limited liability company, trust, unincorporated association, sole proprietorship, or other organization.
+    (5) "Exhibition Game" shall mean any game in which an NBA team participates other than a Regular Season Game or a Playoff Game.
+    (6) "Governor" or "Alternate Governor" shall mean a person who has been appointed by a Member as a member or alternate member of the Board of Governors of the Association in accordance with Article 18. For purposes of this Constitution and By-Laws, any action that may be taken by a Governor may be taken in his or her absence by an Alternate Governor appointed by the same Member, and such action shall have the same force and effect as an action taken by the Governor.
+    (7) "Inactive List" shall mean the list of Players who have signed player contracts with a Member but are otherwise ineligible to participate in a Regular Season Game or a Playoff Game, in accordance with Section 6.03 of the By-Laws.
+    (8) "Member" shall mean a person or Entity that has been granted a Membership in the Association. For purposes of this Constitution and By-Laws, an action on behalf of a Member by any of its Owners, employees, officers, directors, managers, agents or representatives, or its Governor or Alternate Governors, shall be the action of a Member.
+    (9) "Membership" shall mean the rights, privileges, and benefits granted to a Member by the Association, including, without limitation, the right to organize and operate a professional basketball team to play in the league operated by the Association.
+    (10) "NBA Draft" or "Draft" shall mean the process by which Members select certain incoming NBA players.
+    (11) "NBA Draft List" shall mean the list of those Players who have been selected in accordance with the NBA Draft.
+    (12) "Owner" shall mean a Member and each individual or Entity (including both the trustees and beneficiaries of any trust) that, directly or indirectly (including through one or more intermediate Entities), owns of record or beneficially an interest in, or has effective control over, a Member or its Membership.
+    (13) "Player" shall mean either a person carried on any Player List of a Team or, where the context permits, a person eligible to be carried on any such Player List.
+    (14) "Player List" shall mean any of the following lists referred to herein: Active List, Inactive List, Suspended List, NBA Draft List, Voluntarily Retired List, and Armed Services List.
+    (15) "Playoff Game" shall mean any game included in the Association's schedule of playoff games during a Season.
+    (16) "Playoff Roster" shall mean the list of fifteen (15) Players from each Member who have been designated as eligible to compete in Playoff Games in accordance with the By-Laws.
+    (17) "Prospective Owner" shall mean any person or Entity that directly or indirectly owns, seeks to own, or has been identified to the Association as a prospective owner of, an interest in an applicant for Membership under Article 4 or a proposed transferee under Article 5.
+    (18) "Referee" shall mean a person employed as a game official by the Association.
+    (19) "Regular Season" shall mean the period beginning on the day of the first Regular Season Game of the Association's schedule and ending at the end of the day on which the last Regular Season Game is played.
+    (20) "Regular Season Game" shall mean any game included in the Association's schedule of regular season games during a Season, and shall not include Playoff Games or Exhibition Games.
+    (21) "Season" shall mean the period beginning the day of the first Regular Season Game of the Association's schedule and ending at the end of the day on which the last Playoff Game is played.
+    (22) "Suspended List" shall mean the list of those Players who, for proper cause, have been suspended by the Association or by the Member having the right to so suspend, and have therefore been removed from the Active or Inactive Lists of their Teams.
+    (23) "Team" shall mean the professional basketball team organized and operated by a Member to play in the league operated by the Association.
+    (24) "Voluntarily Retired List" shall mean the list of those Players who have formally retired as players in the Association.
+    (25) "Writing" or "Written Notice" shall mean any written communication delivered personally or sent by certified mail (return receipt requested), facsimile, internationally recognized overnight courier service, or electronic mail system utilized by the Association.
+(b) All references to "Articles" or "Sections" shall be references to the Articles and Sections of the Constitution and By-Laws, as they may be amended, modified, supplemented, or restated from time to time.
+(c) Terms for which meanings are defined in this Constitution and By-Laws shall apply equally to the singular and plural forms of the terms defined. Whenever the context may require, any pronoun shall include the corresponding masculine or feminine form. The term "including," whenever used in any provision of this Constitution and By-Laws, shall mean including without limiting the generality of any description preceding or succeeding such term. Each reference to a person or Entity shall include a reference to the successors and assigns of that person or Entity.

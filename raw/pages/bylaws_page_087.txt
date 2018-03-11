@@ -1,0 +1,22 @@
+74
+   Team assigned the following number of chances out of
+   1,000 (Team 1 having had the worst record during the
+   Regular Season and Team 14 having had the best record
+   among the Lottery Teams during the Regular Season):
+        Team 1:      250
+        Team 2:      199
+        Team 3:      156
+        Team 4:      119
+        Team 5:       88
+        Team 6:       63
+        Team 7:       43
+        Team 8:       28
+        Team 9:       17
+        Team 10:      11
+        Team 11:       8
+        Team 12:       7
+        Team 13:       6
+        Team 14:       5
+   The Commissioner shall determine the appropriate
+   procedure for breaking ties;
+

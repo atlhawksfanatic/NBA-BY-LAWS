@@ -1,0 +1,25 @@
+\usepackage{booktabs}
+\usepackage{enumitem}
+\setlistdepth{9}
+
+\renewlist{enumerate}{enumerate}{9}
+\setlist[itemize]{labelsep=.5em}
+
+\usepackage{fancyhdr}
+\usepackage{tocstyle}
+\usetocstyle{standard}
+
+% https://tex.stackexchange.com/questions/136083/alpha-numeric-section-number-for-legal-dissertation
+% A.  ---> Part 
+% I.  ---> Chapter 
+% 1.   ---> Section
+% a) -- > Subsection 
+% aa) 
+
+\renewcommand{\thepart}{\Alph{part}}
+\renewcommand{\thechapter}{}
+\renewcommand{\thesection}{\arabic{section}}
+\renewcommand{\thesubsection}{\arabic{section}\arabic{subsection})}
+% \renewcommand{\thesubsubsection}{\alph{subsection}\alph{subsubsection})}
+
+\setcounter{tocdepth}{2} % 0 is chapter, we want it to go to subsection
