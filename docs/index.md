@@ -1,7 +1,7 @@
 --- 
 title: "NBA Constitution and By-Laws - 2012"
 author: "Robert"
-date: "2018-03-11"
+date: "2018-03-28"
 site: bookdown::bookdown_site
 documentclass: book
 link-citations: yes

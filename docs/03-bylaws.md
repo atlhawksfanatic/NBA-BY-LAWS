@@ -199,7 +199,7 @@ Draft choices shall be made as follows:
     | Team 13:| 6       |
     | Team 14:| 5       |
     
-        The Commissioner shall determine the appropriate procedure for breaking ties;
+    The Commissioner shall determine the appropriate procedure for breaking ties;
     (ii) The remaining Teams that did not qualify to participate in the Playoffs in the preceding Season shall then select, in inverse order of their consolidated standings at the end of the preceding Season; and
     (iii) The Teams that participate in the Playoffs shall then select, in inverse order of their consolidated standings at the end of the preceding Season. The foregoing shall afford each Team one selection.
 (b) In the second round of the NBA Draft, draft choices shall be made in inverse order of the consolidated standings of all Teams at the close of the preceding Season, one selection at a time.
