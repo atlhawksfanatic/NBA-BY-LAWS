@@ -24,7 +24,7 @@ No person shall be eligible as a Player unless he complies with the eligibility 
 
 A person who has not entered into a Player Contract that is valid and binding for the then-current Season in accordance with this Constitution and By-Laws and the NBA/NBPA Collective Bargaining Agreement then in effect shall not be eligible to participate as a Player in any Exhibition, Regular Season, or Playoff Game.
 
-### Consequences of Ineligibility.
+### Consequences of Ineligibility
 
 Any Team that utilizes the services of any person not eligible (in accordance with the NBA/NBPA Collective Bargaining Agreement then in effect, this Constitution and By-Laws, or otherwise) to participate as a Player in any Exhibition, Regular Season, or Playoff Game shall, regardless of the actual final score of the game, be deemed, for all purposes, to have lost such game, and the opposing Team shall be deemed, for all purposes, to have won such game. A person's services are "utilized" for purposes of this Section if he dresses in a Team uniform for a game.
 
@@ -46,7 +46,7 @@ Any Member entering into a contract with a Player or a prospective Player in vio
 
 ### Trading Dates/Compliance
 
-(a) From the start of the Season and until 3 p.m. (eastern time) on the seventeenth Thursday of the Season, Members may, by trade or sale, assign to other Members the contracts of Players, draft rights to particular Players, or draft choices in accordance with these By-Laws (an "Assignment Transaction"). No Assignment Transactions are permitted after 3 p.m. (eastern time) on the seventeenth Thursday of any Season and until the day following the last Regular Season Game. On the day following the last Regular Season Game, Teams may again engage in Assignment Transactions; provided, however, that (i) no Member whose team is participating in the Playoffs may assign the contract of a Player on its Playoff Roster until the team is eliminated from the Playoffs, and (ii) no Assignment Transactions may take place during the Moratorium Period (as such term is defined in the collective bargaining agreement then in effect).
+(a) From the start of the Season and until 3 p.m. (eastern time) on the second Thursday prior to that Season's All-Star Game, Members may, by trade or sale, assign to other Members the contracts of Players, draft rights to particular Players, or draft choices in accordance with these By-Laws (an "Assignment Transaction"). No Assignment Transactions are permitted after 3 p.m. (eastern time) on the second Thursday prior to that Season's All-Star Game and until the day following the last Regular Season Game. On the day following the last Regular Season Game, Teams may again engage in Assignment Transactions; provided, however, that (i) no Member whose team is participating in the Playoffs may assign the contract of a Player on its Playoff Roster until the team is eliminated from the Playoffs, and (ii) no Assignment Transactions may take place during the Moratorium Period (as such term is defined in the collective bargaining agreement then in effect).
 (b) An Assignment Transaction must comply with all rules relating to such transactions as set forth in the NBA/NBPA Collective Bargaining Agreement then in effect.
 
 ### Trade Procedures
@@ -69,12 +69,13 @@ Any Member entering into a contract with a Player or a prospective Player in vio
 (c) The foregoing provisions relating to the allocation of obligations may be modified by the agreement of the parties.
 (d) Any financial or contractual obligation not disclosed to the assignee on the Trade Call shall remain the responsibility of the assignor.
 
-### Additional Trade Rules.
+### Additional Trade Rules
 
 (a) A Member who has assigned its rights to the services of a Player may not retain any rights to such Player, conditional or otherwise, following consummation of the Assignment Transaction.
 (b) A Member who has assigned its rights to the services of a Player may not reacquire such rights prior to the end of the Season in which the assignment occurred, or, if the assignment occurred between Seasons, prior to the end of the next succeeding Season; provided, however, that the foregoing prohibition shall not apply in the event that the assignee shall have first offered the services of such Player to all other Members through the waiver procedure.
-(c) No Player Contract may be assigned during a game for which the Player is dressed to play.
-(d) The Association Office will not conduct a Trade Call unless and until each party thereto has room on its Active List or Inactive List (or will have room after the Trade Call is completed) for the Player(s) whose contract(s) it is receiving in the transaction.
+(c) In addition to the prohibition set forth in Section 4.05(b) above, if a Player is assigned and the assignee Team subsequently places the Player on waivers, the assignor Team shall not be permitted to sign the Player to a new Player Contract (or claim the rights to the Player off of waivers) before the earlier of: (i) one (1) year following the date all conditions to the Assignment Transaction were satisfied; or (ii) the July 1 following the last Season of the Player's Player Contract.
+(d) No Player Contract may be assigned during a game for which the Player is dressed to play.
+(e) The Association Office will not conduct a Trade Call unless and until each party thereto has room on its Active List, Inactive List, or Two-Way List (or will have room after the Trade Call is completed) for the Player(s) whose contract(s) it is receiving in the transaction.
 
 ## INTRA-ASSOCIATION WAIVER OF CONTRACTUAL RIGHTS
 
@@ -92,9 +93,9 @@ A Member desiring to secure waivers on a Player shall notify the Commissioner or
 
 ### Waiver Period
 
-If the Commissioner or the Commissioner's designee distributes notice of request for waiver, any members wishing to claim rights to the Player shall do so by giving notice by telephone and in a Writing of such claim to the Commissioner or the Commissioner's designee within forty-eight (48) hours after the time of such notice. A Team may not withdraw a claim to the rights to a Player on waivers. Notwithstanding Article 40 of the NBA Constitution, Saturdays, Sundays and legal holidays shall be included when computing the above-referenced waiver period.
+If the Commissioner or the Commissioner's designee distributes notice of request for waiver, any Members wishing to claim rights to the Player shall do so by giving notice by telephone and in a Writing of such claim to the Commissioner or the Commissioner's designee within forty-eight (48) hours after the time of such notice. A Team may not withdraw a claim to the rights to a Player on waivers. Notwithstanding Article 40 of the NBA Constitution, Saturdays, Sundays and legal holidays shall be included when computing the above-referenced waiver period.
 
-### Waiver Preferences
+### Waiver Preferences.
 
 (a) In the event that more than one (1) Member shall have claimed the rights to a Player placed on waivers, the claiming Member with the lowest team standing at the time the waiver was requested shall be entitled to acquire the rights to such Player. If the request for waiver shall occur after the last day of the Season and before 11:59 p.m. eastern time on the following November 30, the standings at the close of the previous Season shall govern.
 (b) If the winning percentage of two (2) or more claiming Teams are the same, then the tie shall be determined, if possible, on the basis of the Regular Season Games between the two (2) or more Teams during the current Season or, if the waiver request shall occur after the last day of the Season and before 11:59 p.m. eastern time on the following November 30, during the preceding Season. If still tied, a toss of a coin shall determine priority.
@@ -111,30 +112,38 @@ The Commissioner or the Board of Governors may from time to time adopt additiona
 
 ### Player Lists
 
-The Player Lists shall be the Active List, Inactive List, Suspended List, NBA Draft List, Voluntarily Retired List, and Armed Services List. Except as expressly set forth in this Constitution and By-Laws, there shall be no limit on the maximum number of Players that a Member may carry on any Player List; provided, however that such maximum number of Players, and the duration of time that a Player may be carried on any such List, shall be established from time to time by the Board of Governors. The names of Players on the aforementioned Lists shall be maintained in the Association Office and shall be disseminated from time to time to all the Members.
+The Player Lists shall be the Active List, Inactive List, Two-Way List, Suspended List, NBA Draft List, Voluntarily Retired List, and Armed Services List. Except as expressly set forth in this Constitution and By-Laws and the NBA/NBPA Collective Bargaining Agreement then in effect, there shall be no limit on the maximum number of Players that a Member may carry on any Player List; provided, however that such maximum number of Players, and the duration of time that a Player may be carried on any such List, shall be established from time to time by the Board of Governors. The names of Players on the aforementioned Lists shall be maintained in the Association Office and shall be disseminated from time to time to all the Members.
 
 ### Active List
 
 (a) Only Players whose names appear on the Active List shall be permitted to dress for and be eligible to participate in an Exhibition, Regular Season, or Playoff Game.
-(b) Each Member shall carry twelve (12) or thirteen (13) Players on its Active List, except that any Member may from to time to time as appropriate, but for no more than two (2) consecutive weeks at a time during the Regular Season, have eleven (11) Players on its Active List. Notwithstanding the foregoing, during the period from the day following the last day of the Regular Season until the day before the first day of the following Season, the maximum number of Players that a Member may carry on its Active List (and, if applicable pursuant to Section 6.03(c) and (d) below, Inactive List) shall be twenty (20).
+(b) Each Member shall carry twelve (12) or thirteen (13) Players on its Active List, except that any Member may from time to time as appropriate, but for no more than two (2) consecutive weeks at a time during the Regular Season, have eleven (11) Players on its Active List. Notwithstanding the foregoing, during the period from the day following the last day of the Regular Season (or, for Members that qualify for the playoffs, the day following the Member's last playoff game) until the day before the first day of the following Regular Season, the maximum number of Players (including Two-Way Players) that a Member may carry on its Active List shall be twenty (20).
 
-### Inactive List.
+### Inactive List
 
-(a) During the Regular Season, each Member: (i) may carry a maximum of two (2) Players and as few as zero (0) Players on its Inactive List if the Member has thirteen (13) Players on its Active List in accordance with Section 6.02(b) above; and (ii) may carry a maximum of three (3) Players and a minimum of (1) Player on its Inactive List if the Member has eleven (11) or twelve (12) Players on its Active List in accordance with Section 6.02(b) above, except that any Member with eleven (11) or twelve (12) Players on its Active List may from time to time as appropriate, but for no more than two (2) consecutive weeks at a time during the Regular Season, have zero (0) Players on its Inactive List.
+(a) During the Regular Season, each Member: (i) may carry a maximum of two (2) Players and as few as one (1) Player on its Inactive List if the Member has thirteen (13) Players on its Active List in accordance with Section 6.02(b) above; and (ii) may carry a maximum of three (3) Players and a minimum of (2) Players on its Inactive List if the Member has eleven (11) or twelve (12) Players on its Active List in accordance with Section 6.02(b) above, except that (A) any Member with thirteen (13) Players on its Active List may, from time to time as appropriate, but for no more than two (2) consecutive weeks at a time during the Regular Season, have zero (0) Players on its Inactive List, and (B) any Member with eleven (11) or twelve (12) Players on its Active List may from time to time as appropriate, but for no more than two (2) consecutive weeks at a time during the Regular Season, have one (1) Player on its Inactive List. For each Two-Way Player that a Member places on the Active List or Inactive List during the Regular Season, the Inactive List requirements set forth in this Section 6.03(a) shall be increased by one (1) for that Member.
 (b) For Members that do not qualify for the playoffs, the Inactive List shall exist only during the Regular Season; all Players on the Inactive List of any such Member shall be transferred to the Active List on the day following the last day of the Regular Season.
-(c) During the playoffs, each Member that is participating in the playoffs may carry a maximum of three (3) Players on its Inactive List if the Member has twelve (12) Players on its Active List in accordance with Section 6.02(b) above, or a maximum of two (2) Players on its Inactive List if the Member has thirteen (13) Players on its Active List in accordance with Section 6.02(b) above.
+(c) During the playoffs, each Member that is participating in the playoffs may carry a maximum of three (3) Players on its Inactive List if the Member has twelve (12) Players on its Active List in accordance with Section 6.02(b) above, or a maximum of two (2) Players on its Inactive List if the Member has thirteen (13) Players on its Active List in accordance with Section 6.02(b) above. Subject to 6.05(c) below, for each Two-Way Player that a Member places on the Inactive List during the playoffs, the Inactive List requirements set forth in this Section 6.03(c) shall be increased by one (1) for that Member.
 (d) For Members that qualify for the playoffs, the Inactive List shall exist only for so long as the Member continues to participate in Playoff Games; any Player listed on the Inactive List of such a Member shall be transferred to the Active List on the day following such Member's last Playoff Game.
+
+### Two-Way List
+
+(a) No Member may have on its roster at any one time more than two (2) Two-Way Players. A Two-Way Player shall be placed on his Member's (i) Active List or Inactive List (as applicable) while the Two-Way Player is providing services to the NBA Team, and (ii) Two-Way List while the Two-Way Player is providing services to an NBA G League team (or, during a period prior to the start of NBA G League training camp or after the completion of the NBA G League playoffs, while the Player is not providing services to the NBA Team).
+(b) For Members that do not qualify for the playoffs, the Two-Way List shall exist only during the Regular Season; all Players on the Two-Way List of any such Member shall be transferred to the Active List on the day following the last day of the NBA Regular Season.
+(c) For Members that qualify for the playoffs, the Two-Way List shall exist only for so long as the Member continues to participate in Playoff Games; any Player listed on the Two-Way List of such a Member shall be transferred to the Active List on the day following such Member's last Playoff Game.
 
 ### Playoff Eligibility
 
 (a) Each Member must submit a Playoff Roster consisting of Players from its Active, Inactive, and Suspended Lists by 3 p.m. (eastern time) on the day following the last day of the Regular Season. Any Player signed by a Member to a Player Contract prior to the start of the Member's last Regular Season Game is eligible to participate in Playoff Games, except that a Player with respect to whom a request for waiver has been made after midnight on March 1 is not eligible to participate in Playoff Games during the then-current Season unless the Player has been acquired by a Member whose Active List is reduced to eight (8) Players due to injury or illness.
 (b) Only Players whose names appear on a Member's Active List and Playoff Roster shall be permitted to dress for and be eligible to participate in a Playoff Game.
+(c) Notwithstanding 6.05(a) above, a Two-Way Player is not eligible to be designated on a Member's Playoff Roster or participate in Playoff Games; however, such Player is permitted to travel and practice with the Team and remain on the Member's Inactive List during the playoffs.
 
 ### Suspended List
 
-(a) Any Player on a Team's Active List or Inactive List may be suspended by the Member employing him or by the Commissioner for failure to discharge his contractual obligations, or for failure to comply with training schedules or other disciplinary rules or procedures. In the event that any Member shall suspend a Player, it shall give prior Written Notice of such suspension to the Commissioner. A notice of suspension shall include the name and address of the Player to be suspended, the cause and duration of the suspension (including whether the suspension is indefinite), and such other information as the Member invoking the suspension may deem relevant.
+(a) Any Player on a Team's Active List, Inactive List, or Two-Way List may be suspended by the Member employing him or by the Commissioner for failure to discharge his contractual obligations, or for failure to comply with training schedules or other disciplinary rules or procedures. In the event that any Member shall suspend a Player, it shall give prior Written Notice of such suspension to the Commissioner. A notice of suspension shall include the name and address of the Player to be suspended, the cause and duration of the suspension (including whether the suspension is indefinite), and such other information as the Member invoking the suspension may deem relevant.
 (b) Any Player who is suspended by the Commissioner must be placed on his Team's Active List during the term of the suspension, except if the suspension is for more than five (5) games, in which case, following the fifth game of the suspension, the Member may transfer the Player from the Active List to the Suspended List and substitute a Player in his stead.
 (c) Any Player who is suspended by his Team may be placed on his Team's Active List or Inactive List during the term of the suspension. If a Player has been suspended by his Team for more than three (3) games, the Member may, following the third game of the suspension, transfer the Player from the Active List or Inactive List to the Suspended List and substitute a Player in his stead.
+(d) Notwithstanding Section 6.06(b) and (c) above, suspensions of Two-Way Players and Players on work assignments with the NBA G League shall be governed in accordance with the provisions of the NBA/NBPA Collective Bargaining Agreement then in effect.
 
 ### Minimum Number of Players
 
@@ -142,7 +151,7 @@ Throughout the Season, no Team shall appear for any Exhibition or Regular Season
 
 ### Hardship
 
-In the event that the application of the provisions of these By-Laws pertaining to Player Lists and replacement of Players shall, in any particular case, cause extreme hardship, such provisions, upon application by the Member claiming hardship, may be waived or modified, and special rules may be invoked for the Member claiming such hardship; provided, however, that such provisions may only be waived or modified by the affirmative vote of a majority of the entire Board of Governors (the Governor representing the Member claiming hardship not voting). Notwithstanding the foregoing, in the event that a Member has three (3) Players on its Active List and/or Inactive List who are unable to perform playing services due to injury or illness and such Member has an additional Player who becomes unable to perform playing services due to injury or illness, it may substitute a Player in his stead after the following has occurred:
+In the event that the application of theprovisions of these By-Laws pertaining to Player Lists and replacement of Players shall, in any particular case, cause extreme hardship, such provisions, upon application by the Member claiming hardship, may be waived or modified, and special rules may be invoked for the Member claiming such hardship; provided, however, that such provisions may only be waived or modified by the affirmative vote of a majority of the entire Board of Governors (the Governor representing the Member claiming hardship not voting). Notwithstanding the foregoing, in the event that a Member has three (3) Players (other than Two-Way Players) on its Active List and/or Inactive List who are unable to perform playing services due to injury or illness and such Member has an additional Player (other than a Two-Way Player) who becomes unable to perform playing services due to injury or illness, it may substitute a Player in his stead after the following has occurred:
 
 (a) each of the three (3) injured or ill Players and the additional injured or ill Player has missed a minimum of three (3) consecutive games due to injury or illness; and
 (b) the Commissioner's Office has determined, through an independent physician, if necessary, that at the time the replacement Player is signed, each of the three (3) injured or ill Players on the Member's Active and/or Inactive List, and the additional injured or ill Player, will continue to be unable to perform playing services due to injury or illness.
@@ -151,14 +160,14 @@ The Commissioner, in his sole discretion, may permit a Member to replace additio
 
 ### Voluntarily Retired List
 
-A Player who has not completed the playing services called for under his Player Contract may be transferred to the Voluntarily Retired List only after the Commissioner is notified in a Writing by both the Player and the Team with which he is under contract. No Player whose name appears on any Member's Voluntarily Retired List shall, without the unanimous consent of the Board of Governors, be permitted to engage in any Exhibition, Regular Season, or Playoff Game within a period of one (1) year from the date that his name shall have been first placed on such List. If such Player desires to become an active Player in the Association, and the Member for which he last played does not desire to acquire his services, the right to acquire such services shall be determined in accordance with the waiver procedure.
+A Player who has not completed the playing services called for under his Player Contract may be transferred to the Voluntarily Retired List only after the Commissioner is notified in a Writing by both the Player and the Team with which he is under contract. No Player whose name appears on any Member's Voluntarily Retired List shall, without the unanimous consent of the Board of Governors, be permitted to engage in any Exhibition, Regular Season, Playoff Game, or NBA G League game as a Two-Way Player or Player on work assignment, within a period of one (1) year from the date that his name shall have been first placed on such List. If such Player desires to become an active Player in the Association, and the Member for which he last played does not desire to acquire his services, the right to acquire such services shall be determined in accordance with the waiver procedure.
 
 ### Armed Services List and Returning Servicemen
 
 (a) Members shall continue to have rights to the services of a Player who has been inducted into the Armed Services by placing the name of the Player on its Armed Services List. The name of such Player, unless removed from such List in accordance with the provisions hereof, shall remain on such List during his active duty and for thirty (30) days thereafter. As used herein "active duty" shall not include performance of periodic reserve obligations of any such Player.
 (b) Notwithstanding the foregoing, a Player in the Armed Services may be retained or placed on a Member's Active List or Inactive List and may play in Exhibition, Regular Season and, if otherwise eligible, Playoff Games, if his retention on such Active List or Inactive List will not result in exceeding the maximum provided in Sections 6.02 and 6.03 of these By-Laws. A Player may be placed on a Member's Armed Services List at any time after such Player has been inducted into the Armed Services; provided, however, that a Player may be placed on such Armed Services List from the Member's Active List or Inactive List only once during the same period of active service in the Armed Services if such Player has played in any Exhibition, Regular Season, or Playoff Games during the period of active service.
 (c) A Player who was under contract with a Member at the time of his induction into the Armed Services and who, upon his release, requests re-employment prior to February 15, must be tendered a contract on the same terms and conditions as the contract in existence at the time he was so inducted. Such Player must be "tried out" and, notwithstanding the provision of Sections 6.02 and 6.03 of these By-Laws governing the maximum number of Players that may be carried on an Active List or Inactive List, may participate in Exhibition, Regular Season, and Playoff Games. If such a returning Player requests re-employment on or after February 15, he must similarly be tendered a contract and "tried out" and, notwithstanding the provisions in said Sections 6.02 and 6.03 of these By-Laws, may participate in Exhibition and Regular Season Games but may not participate in Playoff Games.
-(d) The provisions of this Section 6.09 shall also apply to returning servicemen not previously under contract with a Member; provided, however, that no more than two (2) such Players may be "tried out" by a Member at any one time.
+(d) The provisions of this Section 6.10 shall also apply to returning servicemen not previously under contract with a Member; provided, however, that no more than two (2) such Players may be "tried out" by a Member at any one time.
 (e) A Player who has played in any Regular Season Game or Playoff Game while in the Armed Services and who, upon his release from the Armed Services, is entitled to employment or reemployment pursuant to the provisions of subsections (c) and (d) hereof must, notwithstanding the provisions of those subsections, be included in determining the maximum number of Players on the Member's Active List and Inactive List provided for in Sections 6.02 and 6.03 of these By-Laws.
 
 ### Effect of Waiver on Player Lists
@@ -180,30 +189,30 @@ The annual Draft of prospective NBA basketball players shall be held on a date t
 Draft choices shall be made as follows:
 
 (a) For the first round of the NBA Draft, each Team shall make one selection to be determined as follows:
-    (i) There shall be a drawing among the fourteen (14) Teams that do not participate in the Playoffs in the preceding Season (the "Lottery Teams") to determine the first three (3) selections. Such drawing shall be made on the basis of 1,000 total chances, with each participating Team assigned the following number of chances out of 1,000 (Team 1 having had the worst record during the Regular Season and Team 14 having had the best record among the Lottery Teams during the Regular Season):
+    (i) There shall be a drawing among the fourteen (14) Teams that do not participate in the Playoffs in the preceding Season (the "Lottery Teams") to determine the first four (4) selections. Such drawing shall be made on the basis of each participating Team being assigned the following odds (Team 1 having had the worst record during the Regular Season and Team 14 having had the best record among the Lottery Teams during the Regular Season):
 
     | Team    | Chances |
     |:--------|:-------:|
-    | Team 1: | 250     |
-    | Team 2: | 199     |
-    | Team 3: | 156     |
-    | Team 4: | 119     |
-    | Team 5: | 88      |
-    | Team 6: | 63      |
-    | Team 7: | 43      |
-    | Team 8: | 28      |
-    | Team 9: | 17      |
-    | Team 10:| 11      |
-    | Team 11:| 8       |
-    | Team 12:| 7       |
-    | Team 13:| 6       |
-    | Team 14:| 5       |
+    | Team 1: | 14.0\%  |
+    | Team 2: | 14.0\%  |
+    | Team 3: | 14.0\%  |
+    | Team 4: | 12.5\%  |
+    | Team 5: | 10.5\%  |
+    | Team 6: |  9.0\%  |
+    | Team 7: |  7.5\%  |
+    | Team 8: |  6.0\%  |
+    | Team 9: |  4.5\%  |
+    | Team 10:|  3.0\%  |
+    | Team 11:|  2.0\%  |
+    | Team 12:|  1.5\%  |
+    | Team 13:|  1.0\%  |
+    | Team 14:|  0.5\%  |
     
     The Commissioner shall determine the appropriate procedure for breaking ties;
     (ii) The remaining Teams that did not qualify to participate in the Playoffs in the preceding Season shall then select, in inverse order of their consolidated standings at the end of the preceding Season; and
     (iii) The Teams that participate in the Playoffs shall then select, in inverse order of their consolidated standings at the end of the preceding Season. The foregoing shall afford each Team one selection.
 (b) In the second round of the NBA Draft, draft choices shall be made in inverse order of the consolidated standings of all Teams at the close of the preceding Season, one selection at a time.
-(c) In the first round of the NBA Draft, if any Teams are tied on a percentage basis, then priority in selection as between such Teams is to be established on the basis of a drawing among the Teams involved, except that if the tied Teams are Lottery Teams, priority in selection may be determined by the Lottery. As between the Teams participating in any such drawing, the winner shall have the right to the earliest selection in the first round of the Draft, followed by the other tied Teams participating in the drawing, in accordance with the results of the drawing. In the second round of the Draft, if only two Teams are tied, the tied Teams shall reverse the order in which they selected in the first round; if more than two Teams are tied, then, as among the tied teams, each tied Team shall select one position earlier than it selected in the first round, except that the tied Team that selected earliest in the first round shall, among the tied Teams, select latest in the second round.
+(c) In the first round of the NBA Draft, if any Teams are tied on a percentage basis, then priority in selection as between such Teams is to be established on the basis of a drawing among the Teams involved, except that if the tied Teams are Lottery Teams, priority in selection may be determined by the Lottery. As between the Teams participating in any such drawing, the winner shall have the right to the earliest selection in the first round of the Draft, followed by the other tied Teams participating in the drawing, in accordance with the results of the drawing. In the second round of the Draft, the tied Teams shall select in inverse order of the order in which they selected in the first round.
 (d) A Member that has drafted a Player in the NBA Draft shall have such rights to negotiate with and sign such Player consistent with the rules and regulations that may be adopted from time to time by the Board of Governors and/or with provisions of any collective bargaining agreement(s) entered into by the Association.
 
 ### First Round Draft Choice
@@ -229,7 +238,7 @@ No Member may participate in an Exhibition, charity, or all-star Game during the
 
 No Member shall be required, without its consent, to participate as the visiting Team in any Regular Season Game to be played in any city in which the home Team does not have exclusive rights as provided in this Constitution and By-Laws.
 
-### Television and Gate Receipts
+### Television and Gate Receipts.
 
 (a) The revenues derived from network, national, and international television contracts shall be shared equally among the Members of this Association. Each Member may pledge, grant a lien on, or otherwise hypothecate all of its share of the revenue derived from such television contracts, subject to its first having obtained all required approvals under the Constitution and By-Laws (including Article 5 of the Constitution) and to the execution and delivery of such documentation as may be satisfactory to the Commissioner, including documentation that assures to the satisfaction of the Commissioner the payment of such Member's obligations to the Association, the other Members of the Association and their respective affiliates out of such Member's share of the revenue derived from such television contracts.
 (b) The visiting Team shall not be entitled to any portion of the gate receipts derived from any Regular Season Game.
@@ -258,6 +267,4 @@ All contracts entered into by any Member of the Association for the telecasting 
 All contracts entered into by any Member of the Association for the broadcasting of any of its games by radio shall contain provisions in the form required by the Association:
 
 (a) Reserving to the Association the copyright in all games broadcast; and
-
 (b) Rendering such contracts subject to (i) the Constitution and By-Laws and all other rules, regulations, and resolutions of the Association as they presently exist and as they may from time to time be amended or modified; (ii) the terms of any existing or future contracts entered into by the Association for the broadcasting of basketball games; and (iii) the approval of the Commissioner of the Association, with whom all contracts must be filed within ten (10) days of their execution, and who may disapprove such contracts, thereby rendering them null and void, only on the ground that they fail to comply with the requirements of this Section 10.
-
