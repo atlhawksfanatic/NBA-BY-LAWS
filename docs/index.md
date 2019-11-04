@@ -1,7 +1,7 @@
 --- 
 title: "NBA Constitution and By-Laws - 2019"
 author: "Robert"
-date: "2019-11-03"
+date: "2019-11-04"
 site: bookdown::bookdown_site
 documentclass: book
 link-citations: yes
